@@ -7,14 +7,14 @@ Este repositorio reúne notebooks centrados en conceptos clave de álgebra linea
 - `01_markov_processes.ipynb`  
   Procesos de Márkov, matrices de transición, estados de equilibrio, estados límite, simulaciones.
 
-- `02_iterative_methods.ipynb`  
-  Resolución iterativa de sistemas lineales (Jacobi, Gauss-Seidel), convergencia.
+- `02_svd_and_matrix_theory.ipynb`  
+  SVD aplicada a visualizaciones, normas, Schur, pseudoinversa.
 
 - `03_least_squares_polynomials.ipynb`  
   Interpolación polinomial, modelo de mínimos cuadrados, visualización de ajustes.
 
-- `04_svd_and_matrix_theory.ipynb`  
-  SVD aplicada a visualizaciones, normas, Schur, pseudoinversa.
+- `04_iterative_methods.ipynb`  
+  Resolución iterativa de sistemas lineales (Jacobi, Gauss-Seidel), convergencia.
 
 ## Autor
 
